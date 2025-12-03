@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Ladeesha+Karunasinghe+%F0%9F%91%8B;Software+Engineering+Intern;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7C3AED&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Ladeesha+Karunasinghe+%F0%9F%91%8B;Software+Engineering+Intern;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 **Software Engineering Intern** passionate about creating innovative web solutions. Currently pursuing **BSc (Hons) IT at University of Moratuwa** with a **CGPA of 3.35/4.00**. I love building full-stack applications and exploring new technologies!
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 💡 What I Do
 
