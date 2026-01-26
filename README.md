@@ -103,8 +103,8 @@ Full-stack shop with payments, inventory & seller dashboard
 
 - 🥈 2nd Place – Shot Put, Freshers' Meet, UoM
 - 🥉 3rd Place – Discus Throw, Freshers' Meet, UoM
-- 🎖️ Junior Prefect & Best Hostel Student (2016)
-- 🏐 Kabaddi & Volleyball Player
+- 🎖️ Junior Prefect & Best Hostel Student (2016)- Visakha Vidyalaya,Colombo 05)
+- 🏐 Kabaddi & Volleyball Player- Visakha Vidyalaya,Colombo 05
 
 ## 📫 Let's Connect!
 
