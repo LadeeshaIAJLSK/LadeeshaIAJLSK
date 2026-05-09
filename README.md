@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-**Software Engineering Intern** passionate about creating innovative web solutions. Currently pursuing **BSc (Hons) IT at University of Moratuwa** with a **CGPA of 3.35/4.00**. I love building full-stack applications and exploring new technologies!
+**Software Engineering Intern** passionate about creating innovative web solutions. Currently pursuing **BSc (Hons) IT at University of Moratuwa** . I love building full-stack applications and exploring new technologies!
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
@@ -93,18 +93,7 @@ Full-featured blogging platform with likes, comments & admin controls
 **AI Powered** | HTML, CSS, JavaScript, Pollinations AI  
 Generate AI artwork from text prompts instantly
 
-### 🛒 Quick Cart E-Commerce *(Ongoing)*
-**Modern Stack** | Next.js, Tailwind CSS, MongoDB  
-Full-stack shop with payments, inventory & seller dashboard
-
 </div>
-
-## 🏆 Achievements
-
-- 🥈 2nd Place – Shot Put, Freshers' Meet, UoM
-- 🥉 3rd Place – Discus Throw, Freshers' Meet, UoM
-- 🎖️ Junior Prefect & Best Hostel Student (2016)- Visakha Vidyalaya,Colombo 05)
-- 🏐 Kabaddi & Volleyball Player- Visakha Vidyalaya,Colombo 05
 
 ## 📫 Let's Connect!
 
